@@ -1,0 +1,11 @@
+#pageWrapper {
+    width: 960px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    border: 2px solid #666;
+}
+
+#userNav {
+    float: right;
+}
